@@ -1,0 +1,7 @@
+.DS_Store
+tmp
+build
+/node_modules
+bun.lockb
+**/ments.html
+**/ments_ru.html
