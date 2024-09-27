@@ -1,0 +1,11 @@
+### Хижины #public
+
+# Хижина 1
+
+![](this/flinders1)
+
+# Хижина 2
+-- images{this/hut2/}
+
+# Хижина 3
+-- images{this/hut3/}
